@@ -44,7 +44,7 @@ Here the materials :
 - Resistor 40Ω x2
 - Resistor 10000Ω x1
 - SPST Switch x1
-- Power Supply x ( 1 or 2 )
+- Power Supply x1
 - Capacitor 33µF x1
 
 ---
