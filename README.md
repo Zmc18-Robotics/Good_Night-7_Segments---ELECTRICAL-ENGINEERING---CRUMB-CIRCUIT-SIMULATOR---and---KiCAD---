@@ -11,10 +11,10 @@ Just simple 7 segments and some LED's that shows Good Night🌙
 <img width="782" height="343" alt="image" src="https://github.com/user-attachments/assets/400a552a-f6b8-4459-a753-485c28e43193" />
 
 
-<img width="758" height="356" alt="Screenshot 2026-02-25 090524" src="https://github.com/user-attachments/assets/ff3ce5bb-5439-4912-929a-cce09219ed0d" />
+<img width="758" height="356" alt="Screenshot 2026-02-25 090524" src="https://github.com/user-attachments/assets/f304efc2-7476-47ff-a715-7b10775a712c" />
 
 
-<img width="797" height="403" alt="Screenshot 2026-02-25 090612" src="https://github.com/user-attachments/assets/ed80f389-cb71-4f71-8fa2-0b383e5b916b" />
+<img width="797" height="403" alt="Screenshot 2026-02-25 090612" src="https://github.com/user-attachments/assets/c616d068-2985-417a-bac3-954661160d8d" />
 
 
 ---
@@ -22,7 +22,8 @@ Just simple 7 segments and some LED's that shows Good Night🌙
 # Electrical Circuit :
 
 
-![Good Night_page-0001 (1)](https://github.com/user-attachments/assets/58e079c9-3c4c-421a-bae0-ef22dabe6ed3)
+![Good Night_page-0001 (1)](https://github.com/user-attachments/assets/1ed8030f-3968-47ad-af30-61aeb0e61885)
+
 
 
 <img width="727" height="341" alt="image" src="https://github.com/user-attachments/assets/bf237ee9-6441-4b3a-8c17-1ebddc5e7699" />
