@@ -11,10 +11,10 @@ Just simple 7 segments and some LED's that shows Good Night🌙
 <img width="782" height="343" alt="image" src="https://github.com/user-attachments/assets/400a552a-f6b8-4459-a753-485c28e43193" />
 
 
-<img width="758" height="356" alt="Screenshot 2026-02-25 090524" src="https://github.com/user-attachments/assets/f304efc2-7476-47ff-a715-7b10775a712c" />
+<img width="761" height="361" alt="SC1" src="https://github.com/user-attachments/assets/497a2f1f-40df-4bf0-b54a-6941a83143ba" />
 
 
-<img width="797" height="403" alt="Screenshot 2026-02-25 090612" src="https://github.com/user-attachments/assets/c616d068-2985-417a-bac3-954661160d8d" />
+<img width="766" height="361" alt="SC2" src="https://github.com/user-attachments/assets/fd050fb5-5df9-4fa0-821d-32188c2fdbfe" />
 
 
 ---
@@ -26,7 +26,8 @@ Just simple 7 segments and some LED's that shows Good Night🌙
 
 
 
-<img width="727" height="341" alt="image" src="https://github.com/user-attachments/assets/bf237ee9-6441-4b3a-8c17-1ebddc5e7699" />
+<img width="714" height="335" alt="image" src="https://github.com/user-attachments/assets/9606b48a-b5d1-4ae4-8ce9-186190ab9b38" />
+
 
 
 ---
